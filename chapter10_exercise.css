@@ -62,3 +62,18 @@ main {
 .title {
   margin: 15px 0 10px;
 }
+
+
+@media screen and (max-width: 425px) {
+  main {
+    width:100%;
+  }
+
+  .box {
+    width: 90%;
+    margin: 0 0 20px 5%;
+  }
+
+  .box:last-child {
+  margin-bottom: 0;
+}
