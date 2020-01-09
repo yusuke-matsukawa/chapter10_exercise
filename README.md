@@ -1,4 +1,4 @@
 # DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう 10章】
-DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼう10章の課題問題です。
+DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼう10章の課題問題の再提出です。
 ## 使い方
 html/cssファイルのため、PCのブラウザで実行できます。
